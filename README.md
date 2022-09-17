@@ -1,2 +1,2 @@
-# spl2image
-windows printer spool convert image
+# spl2pdf
+windows printer spool convert pdf or image
